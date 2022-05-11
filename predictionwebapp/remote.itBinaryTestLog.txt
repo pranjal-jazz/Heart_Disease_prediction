@@ -1,0 +1,9 @@
+********************************************************
+remote.it platform and binary tester version 2.6.39 
+Current directory /content
+Wed May 11 06:39:21 UTC 2022
+********************************************************
+Linux 275e00c9c548 5.4.188+ #1 SMP Sun Apr 24 10:03:06 PDT 2022 x86_64 x86_64 x86_64 GNU/Linux
+Downloading and testing connectd.x86_64-ubuntu16.04...
+connectd.x86_64-ubuntu16.04 already in current directory, testing now...
+connectd.x86_64-ubuntu16.04 is compatible!
